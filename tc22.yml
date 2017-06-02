@@ -4,7 +4,6 @@
 spring:
   profiles: DEV
 ACCESS.UI.URL: local.k12.com:8712/accessui
-
 ---
 spring:
   profiles: QA
