@@ -1,0 +1,10 @@
+---
+spring:
+#  profiles:
+#    active: DEV
+  application:
+  # Same name as the property file to access
+    name: tc22
+  cloud:
+    config:
+      uri: http://localhost:8001

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: k12-client-server
+Implementation-Version: 1
+Built-By: nicolas.duran
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/k12-client-s
+ erver/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.Application
+
