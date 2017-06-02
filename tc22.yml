@@ -1,4 +1,5 @@
 # tc22.yml
+# Uses profiles per ENVIRONMENT
 ---
 spring:
   profiles: DEV
