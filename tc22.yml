@@ -1,10 +1,1 @@
-# tc22.yml
-# Uses profiles per ENVIRONMENT
----
-spring:
-  profiles: DEV
 ACCESS.UI.URL: GIT.local.k12.com:8712/accessui
----
-spring:
-  profiles: QA
-ACCESS.UI.URL: GIT.test1.k12.com:8712/accessui
