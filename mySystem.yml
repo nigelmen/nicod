@@ -3,8 +3,8 @@
 ---
 spring:
   profiles: DEV
-ACCESS.UI.URL: local.k12.com:8712/accessui
+ACCESS.UI.URL: [GIT]local.k12.com:8712/accessui
 ---
 spring:
   profiles: QA
-ACCESS.UI.URL: test1.k12.com:8712/accessui
+ACCESS.UI.URL: [GIT]test1.k12.com:8712/accessui
